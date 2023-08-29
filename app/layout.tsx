@@ -5,7 +5,7 @@ import Footer from "@/components/Footer"
 export const metadata = {
   title: 'Flexibble',
   description: 'Discover developer projects.',
-}
+};
 
 export default function RootLayout({
   children,
@@ -22,5 +22,5 @@ export default function RootLayout({
         <Footer />
       </body>
     </html>
-  )
-}
+  );
+};

@@ -43,9 +43,9 @@ const AuthProviders = () => {
           </button>
         ))}
       </div>
-    )
-  }
-}
+    );
+  };
+};
 
-export default AuthProviders
+export default AuthProviders;
 
